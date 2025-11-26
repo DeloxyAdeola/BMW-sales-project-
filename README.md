@@ -7,4 +7,6 @@ Maximum Sales = 119,998
 Min Sales = 30,000
 More Manual cars were sold compare to automatic, Manual vehicle sold = 25, 154  Automatic Vehicles 24,846
 cell fomatted rules were applied. 
-Most cars were sold im the asia region. followed by middle east, then north america and 
+Most cars were sold im the asia region. followed by middle east, then north america , europe and Afirca as the least. 
+The cells were conditonally formatted with different colours to distinguih thier peculiarity.
+
