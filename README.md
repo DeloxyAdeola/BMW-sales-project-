@@ -1,6 +1,6 @@
 # BMW-sales-project-
 Analysis on BMW sales between 20210-2024. 
-This project was persinally done by me. i downloaded this data from Kaggle as CSV. 
+This project was personally done by me. i downloaded this data from Kaggle as CSV. 
 Total Revenue between 20210 - 2024 in USD is = 3751730045USD 
 With and Average sales of = 75035
 Maximum Sales = 119,998
